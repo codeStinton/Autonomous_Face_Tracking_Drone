@@ -4,6 +4,6 @@
 Autonomous movement face tracking drone using the DJI RoboMaster TT. Includes GUI with manual control options, and automatic image capturing.
 
 Using the 'Viola-Jones' facial detection algorithm to find a face.
+OpenCV was used for streaming and displaying the video from the drone's camera.
 
-blob:https://outlookuwicac-my.sharepoint.com/b97dcb8e-f662-4e6e-9f45-65e1ffda8b9d![image](https://user-images.githubusercontent.com/93264780/191487545-1981dbea-1b75-4d43-a48c-773cdc8916f5.png)
-
+<img width="767" alt="Screenshot 2022-09-21 at 12 00 58 pm" src="https://user-images.githubusercontent.com/93264780/191487869-9cbda705-1101-4742-a8fd-de99aeebd549.png">
